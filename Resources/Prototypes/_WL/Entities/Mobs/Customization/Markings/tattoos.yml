@@ -1,7 +1,7 @@
 - type: marking
   id: TattooBlush
   bodyPart: Eyes
-  groupWhitelist: [Human, Slime, Reptilian, Android, Felinid]
+  groupWhitelist: [Human, Slime, Reptilian]
   sprites:
   - sprite: _WL/Mobs/Customization/tattoos.rsi
     state: blush
@@ -9,7 +9,7 @@
 - type: marking
   id: TattooUpperLines
   bodyPart: Eyes
-  groupWhitelist: [Human, Slime, Reptilian, Android, Felinid]
+  groupWhitelist: [Human, Slime, Reptilian]
   sprites:
   - sprite: _WL/Mobs/Customization/tattoos.rsi
     state: upperlines
@@ -17,7 +17,7 @@
 - type: marking
   id: TattooBottomLines
   bodyPart: Eyes
-  groupWhitelist: [Human, Slime, Reptilian, Android, Felinid]
+  groupWhitelist: [Human, Slime, Reptilian]
   sprites:
   - sprite: _WL/Mobs/Customization/tattoos.rsi
     state: bottomlines
@@ -25,7 +25,7 @@
 - type: marking
   id: TattooCheekLines
   bodyPart: Eyes
-  groupWhitelist: [Human, Slime, Reptilian, Android, Felinid]
+  groupWhitelist: [Human, Slime, Reptilian]
   sprites:
   - sprite: _WL/Mobs/Customization/tattoos.rsi
     state: cheeklines
@@ -33,7 +33,7 @@
 - type: marking
   id: TattooCheekDots
   bodyPart: Eyes
-  groupWhitelist: [Human, Slime, Reptilian, Android, Felinid]
+  groupWhitelist: [Human, Slime, Reptilian]
   sprites:
   - sprite: _WL/Mobs/Customization/tattoos.rsi
     state: cheekdots
@@ -41,7 +41,7 @@
 - type: marking
   id: TattooFace
   bodyPart: Eyes
-  groupWhitelist: [Human, Slime, Android, Felinid]
+  groupWhitelist: [Human, Slime]
   sprites:
   - sprite: _WL/Mobs/Customization/tattoos.rsi
     state: face
@@ -49,7 +49,7 @@
 - type: marking
   id: TattooManly
   bodyPart: Eyes
-  groupWhitelist: [Human, Slime, Reptilian, Android, Felinid]
+  groupWhitelist: [Human, Slime, Reptilian]
   sprites:
   - sprite: _WL/Mobs/Customization/tattoos.rsi
     state: manly
@@ -57,7 +57,7 @@
 - type: marking
   id: TattooLashes
   bodyPart: Eyes
-  groupWhitelist: [Human, Slime, Reptilian, Android, Felinid]
+  groupWhitelist: [Human, Slime, Reptilian]
   sprites:
   - sprite: _WL/Mobs/Customization/tattoos.rsi
     state: lashes
@@ -65,7 +65,7 @@
 - type: marking
   id: TattooNose
   bodyPart: Eyes
-  groupWhitelist: [Human, Slime, Reptilian, Android, Felinid]
+  groupWhitelist: [Human, Slime, Reptilian]
   sprites:
   - sprite: _WL/Mobs/Customization/tattoos.rsi
     state: nose
@@ -73,7 +73,7 @@
 - type: marking
   id: TattooLips
   bodyPart: Eyes
-  groupWhitelist: [Human, Slime, Android, Felinid]
+  groupWhitelist: [Human, Slime]
   sprites:
   - sprite: _WL/Mobs/Customization/tattoos.rsi
     state: lips
@@ -81,7 +81,7 @@
 - type: marking
   id: TattooSmile
   bodyPart: Eyes
-  groupWhitelist: [Human, Slime, Android, Felinid]
+  groupWhitelist: [Human, Slime]
   sprites:
   - sprite: _WL/Mobs/Customization/tattoos.rsi
     state: smile
@@ -89,7 +89,7 @@
 - type: marking
   id: TattooUpperShadowStrong
   bodyPart: Eyes
-  groupWhitelist: [Human, Slime, Reptilian, Android, Felinid]
+  groupWhitelist: [Human, Slime, Reptilian]
   sprites:
   - sprite: _WL/Mobs/Customization/tattoos.rsi
     state: uppershadowstrong
@@ -97,7 +97,7 @@
 - type: marking
   id: TattooLowerShadowStrong
   bodyPart: Eyes
-  groupWhitelist: [Human, Slime, Reptilian, Android, Felinid]
+  groupWhitelist: [Human, Slime, Reptilian]
   sprites:
   - sprite: _WL/Mobs/Customization/tattoos.rsi
     state: lowershadowstrong
@@ -133,19 +133,3 @@
   sprites:
   - sprite: _WL/Mobs/Customization/tattoos.rsi
     state: thin_lizard
-
-- type: marking
-  id: TattooStrongAndroid
-  bodyPart: Chest
-  groupWhitelist: [Android]
-  sprites:
-  - sprite: _WL/Mobs/Customization/tattoos.rsi
-    state: strong_android
-
-- type: marking
-  id: TattooThinAndroid
-  bodyPart: Chest
-  groupWhitelist: [Android]
-  sprites:
-  - sprite: _WL/Mobs/Customization/tattoos.rsi
-    state: thin_android
