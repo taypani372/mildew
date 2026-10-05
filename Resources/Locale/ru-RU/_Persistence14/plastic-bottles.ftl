@@ -1,1 +1,0 @@
-lathe-category-plasticbottles = Пластиковые бутылки

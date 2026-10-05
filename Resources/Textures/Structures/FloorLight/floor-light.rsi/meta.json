@@ -10,10 +10,10 @@
     "states":
     [
         {
-            "name": "broken"
+            "name": "base"
         },
         {
-            "name": "base"
+            "name": "broken"
         },
         {
             "name": "empty"
