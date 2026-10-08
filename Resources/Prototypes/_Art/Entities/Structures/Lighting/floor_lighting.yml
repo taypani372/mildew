@@ -16,7 +16,7 @@
     graph: LightFixture
     node: tubeLight
   - type: Sprite
-    sprite: Structures/FloorLight/floor-light.rsi
+    sprite: _Art/Structures/FloorLight/floor-light.rsi
     drawdepth: WallMountedItems
     layers:
     - map: ["enum.PoweredLightLayers.Base"]
