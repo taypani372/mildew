@@ -222,7 +222,7 @@
   - type: SpeakOnUIClosed
     pack: GenericVendGoodbyes
   - type: Sprite
-    sprite: Structures/Machines/VendingMachines/ammo.rsi
+    sprite: _WL/Structures/Machines/VendingMachines/ammo.rsi  # WL-resprites
     layers:
     - state: "off"
       map: ["enum.VendingMachineVisualLayers.Base"]
