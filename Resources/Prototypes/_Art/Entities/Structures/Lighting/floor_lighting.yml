@@ -90,7 +90,7 @@
   parent: AlwaysPoweredFloorLight
   components:
   - type: Sprite
-    sprite: Structures/FloorLight/floor-light.rsi
+    sprite: _Art/Structures/FloorLight/floor-light.rsi
     state: empty
   - type: PointLight
     enabled: false
