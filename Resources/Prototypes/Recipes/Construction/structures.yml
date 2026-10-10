@@ -1487,6 +1487,7 @@
   canBuildInImpassable: false
   conditions:
     - !type:TileNotBlocked
+
 - type: construction
   id: FloorLightFixture
   graph: LightFixture
