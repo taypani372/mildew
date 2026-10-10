@@ -113,7 +113,7 @@
       - Toggle
   - type: Construction
     graph: LightFixture
-    node: floorLight
+    node: FloorLightFixture
   - type: Appearance
   - type: PoweredLightVisuals
     blinkingSound:
